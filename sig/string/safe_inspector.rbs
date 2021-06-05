@@ -1,0 +1,13 @@
+class String
+  module SafeInspector
+    VERSION: String
+    FINAL_FALLBACK: String
+    BUILTIN_INSPECT_METHOD: UnboundMethod
+
+    def self.inspect_for: (untyped object) -> String
+
+    private
+    def self.second_choice_for: (untyped object) -> String?
+    def self.fallback_for: (untyped object) -> String
+  end
+end
