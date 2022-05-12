@@ -27,7 +27,7 @@ class String
 
     # @return [String, nil]
     private_class_method def self.second_choice_for(object)
-      String.try_convert(BUILTIN_INSPECT_METHOD.bind(object).call)
+      String.try_convert(BUILTIN_INSPECT_METHOD.bind_call(object))
     rescue Exception
       nil
     end
