@@ -12,7 +12,7 @@ Require Ruby 2.7 or later
 Add below code into your Gemfile
 
 ```ruby
-gem 'string-safe_inspector', '>= 0.0.1', '< 0.1.0'
+gem 'string-safe_inspector', '~> 0.1.0'
 ```
 
 ### Overview
