@@ -1,7 +1,7 @@
 # string-safe_inspector
 
 ![Build Status](https://github.com/kachick/string-safe_inspector/actions/workflows/test_behaviors.yml/badge.svg?branch=main)
-[![Gem Version](https://badge.fury.io/rb/string-safe_inspector.png)](http://badge.fury.io/rb/string-safe_inspector)
+[![Gem Version](https://badge.fury.io/rb/string-safe_inspector.svg)](http://badge.fury.io/rb/string-safe_inspector)
 
 Get `#inspect` without `exception` and `nil` possibilities
 
