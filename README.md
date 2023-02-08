@@ -1,19 +1,15 @@
 # string-safe_inspector
 
+- _**This project now exists for very personal use**_.
+- _**All versions have been removed from https://rubygems.org to free up valuable namespace for other developers**_.
+
 ![Build Status](https://github.com/kachick/string-safe_inspector/actions/workflows/test_behaviors.yml/badge.svg?branch=main)
-[![Gem Version](https://badge.fury.io/rb/string-safe_inspector.svg)](http://badge.fury.io/rb/string-safe_inspector)
 
 Get `#inspect` without `exception` and `nil` possibilities
 
 ## Usage
 
 Require Ruby 3.1 or later
-
-Add below code into your Gemfile
-
-```ruby
-gem 'string-safe_inspector', '~> 0.1.0'
-```
 
 ### Overview
 
