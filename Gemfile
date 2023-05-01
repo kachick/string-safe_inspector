@@ -13,7 +13,7 @@ end
 
 group :development do
   gem 'rbs', '~> 3.1.0', require: false
-  gem 'steep', '~> 1.3.0', require: false
+  gem 'steep', '~> 1.4.0', require: false
   gem 'yard', '~> 0.9.28', require: false
   gem 'rubocop', '~> 1.50.2', require: false
   gem 'rubocop-rake', '~> 0.6.0', require: false
