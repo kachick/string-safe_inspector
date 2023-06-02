@@ -1,7 +1,8 @@
 # string-safe_inspector
 
-- _**This project now exists for very personal use**_.
-- _**All versions have been removed from https://rubygems.org to free up valuable namespace for other developers**_.
+- _**This repository is archived**_
+- _**No longer maintained**_
+- _**All versions have been removed from <https://rubygems.org> to free up valuable namespace for other developers**_.
 
 ![Build Status](https://github.com/kachick/string-safe_inspector/actions/workflows/test_behaviors.yml/badge.svg?branch=main)
 
@@ -31,5 +32,5 @@ String::SafeInspector.inspect_for(does_not_have_inspect)
 
 ## Links
 
-* [Repository](https://github.com/kachick/string-safe_inspector)
-* [API documents](https://kachick.github.io/string-safe_inspector/)
+- [Repository](https://github.com/kachick/string-safe_inspector)
+- [API documents](https://kachick.github.io/string-safe_inspector/)
